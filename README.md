@@ -8,20 +8,21 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. start the program
+2. Prepare the lists from each linear equations and assign in np.array()
+3. Using the np.linalg.solve(), we can find the solutions.
+4. End the program
 
 ## Program:
 (i) To find the L and U matrix
-/*
+/*<img width="612" height="359" alt="Screenshot 2025-10-27 204021" src="https://github.com/user-attachments/assets/1379c469-248a-4da3-9652-05d882d1232a" />
+
 Program to find the L and U matrix.
 Developed by: Naveen R 
 RegisterNumber:25011967 
-*/
-```<img width="651" height="274" alt="Screenshot 2025-10-17 111126" src="https://github.com/user-attachments/assets/71f210a4-6f9d-40c4-a201-244a71bc8eb9" />
+output:*/<img width="831" height="169" alt="Screenshot 2025-10-27 204039" src="https://github.com/user-attachments/assets/ca31fd2e-23ca-4411-890d-d1aa9f65a09b" />
 
+ 
 
 (ii) To find the LU Decomposition of a matrix
 ```
@@ -29,12 +30,11 @@ RegisterNumber:25011967
 Program to find the LU Decomposition of a matrix.
 Developed by: Naveen R
 RegisterNumber: 25011967
+<img width="612" height="359" alt="Screenshot 2025-10-27 204021" src="https://github.com/user-attachments/assets/6b88bd59-64b6-40f7-b08f-6c24ccd73742" />
 
-```<img width="587" height="380" alt="Screenshot 2025-10-17 111306" src="https://github.com/user-attachments/assets/28bd8921-8cb9-4ee1-915d-238c8410b86d" />
 
-## Output:<img width="841" height="113" alt="Screenshot 2025-10-17 111325" src="https://github.com/user-attachments/assets/59d5952e-7697-432f-8738-864974c8d28e" />
+## Output:<img width="831" height="169" alt="Screenshot 2025-10-27 204039" src="https://github.com/user-attachments/assets/b9a46768-46e7-4a67-90db-6335ba5c162d" />
 
-![lu decomposition]()<img width="1231" height="578" alt="Screenshot 2025-10-17 111151" src="https://github.com/user-attachments/assets/948c604f-7d9d-4726-87b8-27dd91c19600" />
 
 
 
